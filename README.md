@@ -1,31 +1,31 @@
-<div align="center">
+# 👋 Olá, eu sou Ray Camurça
 
-## Bem-vindo(a) ao perfil 
+🎯 Estudante de **Desenvolvimento Web**  
+💻 Focado em **HTML, CSS e JavaScript**  
+🚀 Em constante aprendizado e evolução
 
-<div>
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=raycamurca&show_icons=true&theme=tokyonight"/>
+---
 
-  <img height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raycamurca&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+## 🛠️ Tecnologias que estudo
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux" />
+</p>
 
-<br>
+---
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-</div>
+## 📊 Atividades do GitHub
 
-<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raycamurca&theme=dracula" />
 
-### EM BREVE CRIAREI O LINKEDIN
+---
 
-<div>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+## 🌐 Onde me encontrar
+- 💼 GitHub: [github.com/raycamurca](https://github.com/raycamurca)
+- 💼 LinkedIn: *(perfil em criação)*
 
-</div>
+---
+
+## 📌 Objetivo
+> Aprimorar minhas habilidades em JavaScript e avançar para frameworks e back-end.
+
+⭐ Se gostou do meu perfil, fique à vontade para explorar meus repositórios!
