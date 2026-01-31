@@ -13,10 +13,6 @@
 
 ---
 
-![Contribuições](https://ghchart.rshah.org/dracula/raycamurca)
-
----
-
 ## 🌐 Onde me encontrar
 - 💼 GitHub: [github.com/raycamurca](https://github.com/raycamurca)
 - 💼 LinkedIn: *(perfil em criação)*
