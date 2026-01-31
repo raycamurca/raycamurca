@@ -13,9 +13,7 @@
 
 ---
 
-## 📊 Atividades do GitHub
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raycamurca&theme=dracula" />
+![Contribuições](https://ghchart.rshah.org/dracula/raycamurca)
 
 ---
 
